@@ -1,0 +1,51 @@
+body {
+  margin-left: 250px;
+  background-color:cornflowerblue;
+}
+
+ul.navbar {
+  position: fixed;
+  top: 30px;
+  left: 15px;
+  width: 150px;
+}
+ul.navbar li {
+  margin: 5px 0;
+  padding: 5px;
+  border-right: 1px solid #17252a;
+  border-top: 1px solid #17252a;
+  border-left: 10px solid #17252a;
+  border-bottom: 1px solid #17252a;
+}
+
+ul.navbar a {
+  text-decoration: black;
+}
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: blue;
+}
+
+#paragraph1 {
+  color: #2A31FF;
+}
+#paragraph2 {
+  color: #FF0000;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
