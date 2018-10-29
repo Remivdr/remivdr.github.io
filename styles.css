@@ -1,5 +1,8 @@
 body {
   margin-left: 250px;
+}
+
+#index {
   background-color:cornflowerblue;
 }
 
@@ -40,6 +43,9 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  font-weigth: bold;
+}
 h3 {
   text-align: center;
 }
